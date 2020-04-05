@@ -1,24 +1,17 @@
-# bp_shell
+# MySQL web shell (REPL)
 
-## Project setup
+A (very) simple online DBMS interface. 
+Supports running queries and uploading files (to be used with `LOAD DATA`).
+
+### Debugging (assumes vue-cli)
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Building (frontend files in /dist, example backend in /server)
 ```
+npm install
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

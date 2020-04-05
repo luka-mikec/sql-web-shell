@@ -1,0 +1,23 @@
+{
+  "public_db_name": "fakultet",
+  "private_db_name": "osobna",
+  "sql-command": "SQL naredba",
+  "execute-current-command": "Izvrši trenutnu naredbu.",
+  "your-previously-enter-commands": "Vaše prethodno upisane naredbe",
+  "history": "Povijest",
+  "your-files": "Vaše datoteke",
+  "upload-files": "Prijenos datoteka",
+  "adresses-of-uploaded-files": "Adrese prenesenih datoteka",
+  "empty-sql-output": "Naredba je vratila praznu tablicu",
+  "not-logged-in": "Niste prijavljeni.",
+  "log-in": "Ulogirajte se",
+  "and-try-again": "i potom pokušajte ponovno.",
+  "command-success": "Naredba je uspješno izvršena",
+  "command-fail": "Naredba nije uspješno izvršena",
+  "files-up-success": "Datoteke su uspješno prenesene",
+  "files-up-fail": "Datoteke nisu uspješno prenesene",
+  "files-down-fail": "Datoteke nisu uspješno dohvaćene",
+  "mysql-error": "MySQL greška:",
+  "error-empty-command": "Greška: jeste li unijeli naredbu?",
+  "unknown-error": "Nepoznata greška. Jeste li spojeni na Internet?"
+}
