@@ -95,6 +95,10 @@
                 <td>Redni broj dana unutar godine za datum <i>d</i> (prvi siječnja = 1 itd.) </td>
               </tr>
               <tr>
+                <td>day(d), month(d), year(d)</td>
+                <td>Komponente datuma <i>d</i></td>
+              </tr>
+              <tr>
                 <td>week(d)</td>
                 <td>Redni broj tjedna (u godini) kojem pripada datum <i>d</i></td>
               </tr>
@@ -256,12 +260,16 @@
               <td>Kao prethodno, ali maksimalna vrijednost</td>
             </tr>
             <tr>
-              <td>sum(T)</td>
+              <td>sum(I)</td>
               <td>Kao prethodno, ali suma vrijednosti</td>
             </tr>
             <tr>
-              <td>std(T)</td>
+              <td>std(I)</td>
               <td>Kao prethodno, ali standardna devijacija</td>
+            </tr>
+            <tr>
+              <td>group_concat(I)</td>
+              <td>Nadovezuje sve vrijednosti izraza <code>I</code> kao stringove odvojene separatorom (zarez po defaultu)</td>
             </tr>
           </tbody>
         </v-simple-table>

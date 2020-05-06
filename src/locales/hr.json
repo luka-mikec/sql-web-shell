@@ -3,7 +3,7 @@
   "private_db_name": "osobna",
   "sql-command": "SQL naredba",
   "execute-current-command": "Izvrši trenutnu naredbu.",
-  "your-previously-enter-commands": "Vaše prethodno upisane naredbe",
+  "your-previously-enter-commands": "Vaše prethodno upisane naredbe.",
   "history": "Povijest",
   "your-files": "Vaše datoteke",
   "upload-files": "Prijenos datoteka",
