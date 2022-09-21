@@ -12,7 +12,7 @@
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-i18n": "^8.17.4",
-    "vuetify": "^2.2.27"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@kazupon/vue-i18n-loader": "^0.3.0",
